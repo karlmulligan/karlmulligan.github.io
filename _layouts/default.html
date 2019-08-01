@@ -1,20 +1,25 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
 
-{% include head.html %}
+  {% include head.html %}
 
-<body>
+  <body>
 
-  <div class="container">
     {% include header.html %}
 
-    <div class="post-container">
-      {{ content }}
+
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
     </div>
 
     {% include footer.html %}
 
-  </div>
+    {% include hemline.html %}
 
-</body>
+  </body>
+
+<link href="https://fonts.googleapis.com/css?family=Cardo&display=swap" rel="stylesheet">
+
 </html>
