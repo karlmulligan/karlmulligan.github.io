@@ -1,0 +1,13 @@
+current directory: /Users/karlmulligan/Documents/website/karlmulligan.github.io/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+/Users/karlmulligan/.rvm/rubies/ruby-2.7.4/bin/ruby -I /Users/karlmulligan/.rvm/rubies/ruby-2.7.4/lib/ruby/2.7.0 -r ./siteconf20221216-23877-r2evn7.rb extconf.rb
+creating Makefile
+
+current directory: /Users/karlmulligan/Documents/website/karlmulligan.github.io/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/karlmulligan/Documents/website/karlmulligan.github.io/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/karlmulligan/Documents/website/karlmulligan.github.io/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make "DESTDIR=" install
