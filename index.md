@@ -8,7 +8,7 @@ title: "Karl Mulligan"
 
 <br style="line-height: 0.5em">
 <div class="profile">
-    <img src="/assets/image/hyde-pt.jpg/" width=200px style="border-radius: 5%;"/>
+    <img src="/assets/image/hyde-pt.jpg" width=200px style="border-radius: 5%;"/>
 </div>
 
 I'm a Postdoc in the [Cognitive Science and Pragmatics lab](https://cogsciprag.github.io/home/) at the University of Tübingen, where I work with Michael Franke. 
