@@ -1,0 +1,99 @@
+---
+---
+
+// @import "main";
+// "" #CCD5AE
+// "palm leaf" #80934D
+// "dusty olive" #69783F
+
+$text-color: #3C3602;
+$bg-color: #FFFFF0;
+$link-color: #5D6B38;
+$hover-color: #CCD5AE;
+
+
+$font-stack: "Newsreader", serif;
+
+$font-heading: "Newsreader", serif;
+
+body {
+    background-color: $bg-color;
+    color: $text-color;
+    font-family: $font-stack;
+    font-size: 1.1em;
+    line-height: 1.4em;
+    padding: 20px;
+
+    h1, h2, h3, h4, h5, h6 {
+        color: $link-color;
+        font-weight: 600;
+        margin-top: 40px;
+    }
+    
+    h1 {
+        font-weight: 600;
+        font-style: italic;
+        margin-top: 0px;
+    }
+    
+
+    a:any-link {
+        color: $link-color;
+    }
+
+    a:hover {
+        color: $hover-color;
+    }
+
+    li::marker {
+        color: $link-color;
+    }
+
+    nav {
+        ul {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+        }
+
+        li {
+            display: inline-block;
+            margin-right: 20px;
+        }
+
+    }
+}
+
+.profile {
+    float: right; 
+    margin-left: 3em; 
+    margin-bottom: 1.5em;
+}
+
+.container {
+  width: 50rem;
+  max-width: 100%;
+  margin-top: 5%;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.br {
+    line-height: 0.5em;
+}
+
+@media (max-width: 600px), screen and (orientation: portrait) {
+    .profile {
+        float: none;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+}

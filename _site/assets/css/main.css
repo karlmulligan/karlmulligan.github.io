@@ -1,0 +1,25 @@
+body { background-color: #FFFFF0; color: #3C3602; font-family: "Newsreader", serif; font-size: 1.1em; line-height: 1.4em; padding: 20px; }
+
+body h1, body h2, body h3, body h4, body h5, body h6 { color: #5D6B38; font-weight: 600; margin-top: 40px; }
+
+body h1 { font-weight: 600; font-style: italic; margin-top: 0px; }
+
+body a:any-link { color: #5D6B38; }
+
+body a:hover { color: #CCD5AE; }
+
+body li::marker { color: #5D6B38; }
+
+body nav ul { margin: 0; padding: 0; list-style: none; }
+
+body nav li { display: inline-block; margin-right: 20px; }
+
+.profile { float: right; margin-left: 3em; margin-bottom: 1.5em; }
+
+.container { width: 50rem; max-width: 100%; margin-top: 5%; margin-left: auto; margin-right: auto; display: flex; align-items: center; justify-content: center; }
+
+.br { line-height: 0.5em; }
+
+@media (max-width: 600px), screen and (orientation: portrait) { .profile { float: none; position: relative; display: flex; justify-content: center; align-items: center; margin-left: auto; margin-right: auto; } }
+
+/*# sourceMappingURL=main.css.map */
