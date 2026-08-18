@@ -1,4 +1,6 @@
 .DS_Store
+.tweet-cache
+.bundle
 assets/image/.DS_Store
 assets/pdf/.DS_Store
 assets/.DS_Store
