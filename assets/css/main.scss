@@ -3,18 +3,21 @@
 
 // @import "main";
 // "" #CCD5AE
+// color palette selection: coolors.co
 // "palm leaf" #80934D
 // "dusty olive" #69783F
 
-$text-color: #3C3602;
+$text-color: #141201;
 $bg-color: #FFFFF0;
-$link-color: #5D6B38;
+$link-color: #69783F;
 $hover-color: #CCD5AE;
 
 
 $font-stack: "Newsreader", serif;
 
-$font-heading: "Newsreader", serif;
+$font-heading: "Cardo", serif;
+
+$font-title: "Cardo", serif;
 
 body {
     background-color: $bg-color;
@@ -26,14 +29,22 @@ body {
 
     h1, h2, h3, h4, h5, h6 {
         color: $link-color;
-        font-weight: 600;
+        font-family: $font-heading;
+        font-weight: 400;
         margin-top: 40px;
     }
     
     h1 {
-        font-weight: 600;
-        font-style: italic;
+        font-weight: 400;
+        font-family: $font-title;
+        font-size: 3em;
         margin-top: 0px;
+        margin-bottom: 0px;
+    }
+
+    h3 {
+        font-size: 1.5em;
+        
     }
     
 

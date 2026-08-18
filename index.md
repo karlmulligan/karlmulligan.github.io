@@ -8,7 +8,7 @@ title: "Karl Mulligan"
 
 <br style="line-height: 0.5em">
 <div class="profile">
-    <img src="/assets/image/hyde-pt.jpg" width=200px style="border-radius: 5%;"/>
+    <img src="/assets/image/hyde-pt-c.jpg" width=200px style="border-radius: 5%;"/>
 </div>
 
 I'm a Postdoc in the [Cognitive Science and Pragmatics lab](https://cogsciprag.github.io/home/) at the University of Tübingen, where I work with Michael Franke. 
@@ -18,7 +18,7 @@ My work draws on methods from formal semantics and pragmatics, computational mod
 
 Prior to coming to Tübingen, I did my PhD in Cognitive Science at Johns Hopkins University, advised by Kyle Rawlins. 
 
-Outside of research, I like to cook, garden, and read. 
+Outside of research, I like to cook, garden, read, and listen to music. 
 I also run, [a lot](https://ultrasignup.com/results_participant.aspx?fname=Karl&lname=Mulligan). 
 
 ### contact
@@ -36,8 +36,12 @@ karl [dot] mulligan [at] uni-tuebingen [dot] de
 
 ### publications
 
+- [**Act or Clarify? Modeling Sensitivity to Uncertainty and Cost in Communication**](https://escholarship.org/uc/item/5kb446j5).\
+With Polina Tsvilodub, et al.
+Proceedings of Cognitive Science Society. 2026.
+
 - [**Shifting Topic**](https://jscholarship.library.jhu.edu/handle/1774.2/71453).\
-Doctoral dissertation.
+Doctoral dissertation. Johns Hopkins University.
 2025.\
 (Committee: Justin Bledin, Jennifer Hu, Pasha Koval, Kyle Rawlins, Benjamin van Durme).
 
@@ -67,7 +71,7 @@ Proceedings of SCiL 4.
 2021.
 
 - [**Grounded Sequence to Sequence Transduction**](https://ieeexplore.ieee.org/abstract/document/9103248).\
-With Lucia Specia et al.
+With Lucia Specia, et al.
 IEEE Journal of Selected Topics in Signal Processing.
 2020.
 
